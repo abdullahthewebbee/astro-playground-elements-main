@@ -1,7 +1,5 @@
 # Astro + playground-elements
 
-This also applies to [Vite](https://vitejs.dev/).
-
 ![](screenshot.png)
 
 ## Usage
