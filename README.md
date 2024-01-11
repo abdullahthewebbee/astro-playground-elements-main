@@ -1,7 +1,5 @@
 # Astro + playground-elements
 
-Example of how to use Astro to bundle the [playground-elements](https://github.com/google/playground-elements) playground client side.
-
 This also applies to [Vite](https://vitejs.dev/).
 
 ![](screenshot.png)
@@ -55,4 +53,3 @@ const rawConfig = `<script type="sample/html" filename="index.html">
 # Known Issues
 
 - [ ] Playground TypeScript worker not loading during development
-- [ ] [Client only](https://github.com/withastro/astro/issues/2526) directive not working
