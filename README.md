@@ -1,6 +1,6 @@
 # Astro + playground-elements
 
-![](screenshot.png)
+![](screenshot.png).
 
 ## Usage
 
