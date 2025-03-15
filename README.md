@@ -1,4 +1,4 @@
-# Astro + playground-elements
+# Astro + playground-elements.
 
 ![](screenshot.png).
 
