@@ -50,4 +50,4 @@ const rawConfig = `<script type="sample/html" filename="index.html">
 
 # Known Issues
 
-- [ ] Playground TypeScript worker not loading during development
+- [ ] Playground TypeScript worker not loading during development.
